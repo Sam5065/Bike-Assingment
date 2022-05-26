@@ -1,0 +1,431 @@
+Santa Cruz
+MTB
+Nomad
+2022
+27.5
+RockShox Lyrik RC 170
+643984760
+
+Santa Cruz
+MTB
+5010
+2022
+27.5
+RockShox Recon RL 130 - 27.5
+643984768
+
+Santa Cruz
+MTB
+5010
+2019
+27.5
+RockShox Recon RL 130 - 27.5
+643984769
+
+Santa Cruz
+MTB
+5010
+2022
+27.5
+RockShox Recon RL 130 - 27.5
+643984770
+
+Santa Cruz
+MTB
+Chameleon
+2022
+29
+RockShox Recon RL 120 - 27+
+643984771
+
+Specialized
+MTB
+Rockhopper
+2019
+29
+SR Suntour XCM
+643984772
+
+Specialized
+MTB
+Rockhopper
+2022
+29
+SR Suntour XCM
+643984773
+
+Specialized
+MTB
+Rockhopper
+2022
+29
+SR Suntour XCM
+643984774
+
+Specialized
+MTB
+Spark
+2020
+27.5
+Rock Shox Sektor RL Solo Air
+643984775
+
+Trek
+MTB
+Roscoe
+2022
+27.5
+RockShox Judy Silver TK
+643984776
+
+Trek
+MTB
+Remedy
+2019
+27.5
+RockShox Yari RL
+643984777
+
+Trek
+MTB
+Marlin
+2022
+29
+RockShox XC 30
+643984778
+
+Cannondale
+Road Bike
+Synapse
+2020
+700
+BallisTec Carbon
+643984765
+
+Cannondale
+Road Bike
+CAAD12
+2019
+700
+BallisTec Full Carbon
+643984780
+
+Cannondale
+Road Bike
+CAAD12
+2022
+700
+BallisTec Full Carbon
+643984781
+
+Cannondale
+Road Bike
+CAAD12
+2019
+700
+BallisTec Full Carbon
+643984782
+
+Cannondale
+Road Bike
+SuperSix
+2022
+700
+BallisTec Carbon Disc
+643984783
+
+Cannondale
+Road Bike
+SuperSix
+2020
+700
+BallisTec Carbon Disc
+643984784
+
+Cannondale
+Road Bike
+SuperSix
+2020
+700
+BallisTec Carbon Disc
+643984785
+
+Specialized
+Road Bike
+Diverge
+2019
+700
+FACT Carbon Fibre
+643984786
+
+Specialized
+Road Bike
+Roubaix
+2022
+700
+Specialized FACT Carbon
+643984787
+
+Specialized
+Road Bike
+Roubaix
+2022
+700
+Specialized FACT Carbon
+643984788
+
+Specialized
+Road Bike
+Tarmac
+2020
+700
+S-Works FACT Carbon
+643984789
+
+Specialized
+Road Bike
+Tarmac
+2022
+700
+S-Works FACT Carbon
+643984790
+
+Specialized
+Road Bike
+Tarmac
+2020
+700
+S-Works FACT Carbon
+643984669
+
+Scott
+Road Bike
+Addict
+2021
+700
+Addict HMF Carbon Dropout
+643984792
+
+Scott
+Road Bike
+Addict
+2021
+700
+Addict HMF Carbon Dropout
+643984793
+
+Scott
+Road Bike
+Addict
+2021
+700
+Addict HMF Carbon Dropout
+643984794
+
+Scott
+Road Bike
+Addict
+2021
+700
+Addict HMF Carbon Dropout
+643984795
+
+Scott
+Road Bike
+Speedster
+2019
+700
+Addict HMF Carbon Dropout
+643984796
+
+Scott
+Road Bike
+Speedster
+2022
+700
+Speedster Alloy
+643984797
+
+Scott
+Road Bike
+Speedster
+2022
+700
+Speedster Alloy
+643984798
+
+Scott
+Road Bike
+Contessa
+2022
+700
+Speedster Alloy
+643984799
+
+Scott
+Road Bike
+Contessa
+2019
+700
+Speedster Alloy
+643984800
+
+Haro
+BMX
+Downtown
+2022
+18
+Hi-ten 1 1/8" threadless
+643984801
+
+Haro
+BMX
+Downtown
+2022
+18
+Hi-ten 1 1/8" threadless
+643984802
+
+Haro
+BMX
+Expert
+2019
+20
+Crmo 1 1/8" threadless
+643984803
+
+Haro
+BMX
+Annex
+2022
+20
+Crmo 1 1/8" threadless
+643984804
+
+Haro
+BMX
+Annex
+2019
+20
+Crmo 1 1/8" threadless
+643984805
+
+Haro
+BMX
+Annex
+2022
+20
+Crmo 1 1/8" threadless
+643984806
+
+Haro
+BMX
+Annex
+2022
+20
+Crmo 1 1/8" threadless
+643984807
+
+GT
+BMX
+Performer
+2022
+18
+GT FS Design
+643984808
+
+GT
+BMX
+Slammer
+2022
+20
+GT FS Design
+643984809
+
+GT
+BMX
+Slammer
+2019
+20
+GT FS Design
+643984810
+
+GT
+BMX
+Slammer
+2022
+20
+GT FS Design
+643984811
+
+GT
+BMX
+Pro series
+2019
+20
+GT Pro Series Race
+643984812
+
+GT
+BMX
+Pro series
+2020
+20
+GT Pro Series Race
+643984813
+
+Mongoose
+BMX
+Legion
+2020
+20
+Hi-Ten Steel
+643984814
+
+Mongoose
+BMX
+Legion
+2020
+20
+Hi-Ten Steel
+643984815
+
+Mongoose
+BMX
+Legion
+2020
+20
+Hi-Ten Steel
+643984816
+
+Mongoose
+BMX
+Legion
+2020
+20
+Hi-Ten Steel
+643984817
+
+Mongoose
+BMX
+Legion
+2020
+20
+Hi-Ten Steel
+643984818
+
+Mongoose
+BMX
+Legion
+2020
+20
+Hi-Ten Steel
+643984819
+
+Mongoose
+BMX
+Legion
+2022
+20
+Hi-Ten Steel
+643999920
